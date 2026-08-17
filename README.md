@@ -1,28 +1,35 @@
-# Guia Prático: Fundamentos de HTML Básico
+# Guia Prático de HTML Básico
 
-## 1. Público-Alvo
-Este guia foi criado para **estudantes sem experiência em programação** que desejam dar os primeiros passos na criação de páginas web.
+## Objetivo
+Este guia tem como objetivo ensinar os conceitos fundamentais de HTML de forma prática e acessível, permitindo a criação do primeiro site do zero.
 
-## 2. Objetivo e Resultado Esperado
-Ao final deste guia, você será capaz de criar um site básico do zero, aprendendo a:
-* Inserir e formatar **textos**.
-* Adicionar e exibir **imagens**.
-* Alterar a **cor de fundo** da sua página.
+## Público-alvo
+Estudantes e iniciantes sem experiência prévia em programação.
 
-## 3. Conceitos Fundamentais
-* **``**: A estrutura principal da sua página.
-* **``**: A parte visível do site, onde ficam os textos e imagens.
-* **`
-` a `
-`**: Tags de títulos.
-* **`
-`**: Tag para parágrafos.
-* **``**: Tag para inserir imagens.
+## Pré-requisitos
+* Um navegador web (Google Chrome, Microsoft Edge ou Firefox).
+* Um editor de texto simples (Notepad, VS Code ou Bloco de Notas).
+* Vontade de aprender os conceitos básicos da web.
 
-## 4. Exercício Prático
-Crie um arquivo chamado `index.html` e insira o código abaixo para ver o resultado no seu navegador:~
-## 5. Histórico e Resolução de Conflitos
-*(Esta seção será atualizada durante a prática de branches e pull requests no Git).*
+## Estrutura
+O projeto está organizado na seguinte estrutura de arquivos:
+guia-html-basico/
+├── README.md
+├── LICENSE
+├── aprendizados.md
+├── conflito-resolvido.md
+├── docs/
+│   ├── 01-introducao.md
+│   ├── 02-conceitos.md
+│   ├── 03-exercicios.md
+│   └── 04-referencias.md
+└── exemplos/
+└── exemplo-basico.md
 
-## 6. Reflexão Final
-*(Sua reflexão sobre o aprendizado ao final do projeto).*
+## Como navegar
+1. Comece lendo os módulos em ordem na pasta `docs/` (`01-introducao.md` até `04-referencias.md`).
+2. Acesse a pasta `exemplos/` para visualizar o código HTML na prática.
+3. Consulte `aprendizados.md` e `conflito-resolvido.md` para ver o registro do processo de desenvolvimento e versionamento no Git.
+
+## Autoria
+Desenvolvido por Gabriel Henrique Amorim de França como Projeto Final Integrador.
